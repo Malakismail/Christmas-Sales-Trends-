@@ -51,5 +51,5 @@ This project demonstrates how analyzing sales data can help businesses understan
 For inquiries or collaboration opportunities, please reach out to me:
 
 **Name**: Malak Ismail  
-**Email**: [malakismail706@gmail.com ](malakismail706@gmail.com )  
-**LinkedIn**: [Malak Ismail](www.linkedin.com/in/malak-ismail-393148251)
+**Email**: malakismail706@gmail.com 
+**LinkedIn**: www.linkedin.com/in/malak-ismail-393148251
